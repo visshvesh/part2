@@ -1,0 +1,1 @@
+ This Repo consist of files necessary to train or test custom object-detection repo
